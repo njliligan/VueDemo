@@ -1,0 +1,7 @@
+build文件夹和config都是配置文件夹
+webpack开头的是不同环境下的不同的配置文件
+base是dev和prod共有的配置
+node_modules是所有的依赖
+一般全局样式文件放static
+.gitkeep是一个管理文件夹
+.babelrc是一个编译配置，js编译器
